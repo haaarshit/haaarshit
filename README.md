@@ -1,5 +1,4 @@
-### Hi there 👋 I'm Harshit Tripathi.
-### I'm a 2nd year undergraduate...
+### Hi there 👋 I'm Harshit Tripathi. I'm a 2nd year undergraduate...
 
 <!--
 **coderharsx1122/coderharsx1122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,3 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🌱 I’m currently learning web technologies, Java and Networking
+📫 How to reach me: harshittripathi730@gmail.com
