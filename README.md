@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m currently learning web technologies, Java and Networking
-📫 How to reach me: harshittripathi730@gmail.com
+-🌱 I’m currently learning web technologies, Java and Networking
+-📫 How to reach me: harshittripathi730@gmail.com
