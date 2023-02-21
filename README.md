@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Harshit Tripathi.
-I'm a 2nd year undergraduate...
+### I'm a 2nd year undergraduate...
 
 <!--
 **coderharsx1122/coderharsx1122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
