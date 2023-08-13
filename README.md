@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **blockchain project**
 
-- 📝 I used to write blog related to my learning on [hashnode](@hashnode https://hashnode.com/@harsx1122)
+- 📝 I used to write blog related to my learning on [hashnode](@https://hashnode.com/@harsx1122)
 
 - 📫 How to reach me **harshittripathi730@gmail.com**
 
