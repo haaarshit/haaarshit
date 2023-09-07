@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAM/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderharsx1122&label=Profile%20views&color=0e75b6&style=flat" alt="coderharsx1122" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@coder_harshit01" target="blank"><img src="https://img.shields.io/twitter/follow/@coder_harshit01?logo=twitter&style=for-the-badge" alt="@coder_harshit01" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@coder_harshit01" target="blank"><img src="https://img.shields.io/twitter/follow/@coder_harshit01?logo=twitter&style=for-the-badge" alt="coder_harshit01" /></a> </p>
 
 - 🔭 I’m currently working on my **Blockchain and web projects**
 
