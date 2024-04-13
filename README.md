@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderharsx1122&label=Profile%20views&color=0e75b6&style=flat" alt="coderharsx1122" /> </p>
 
 
-- 📝 I used to write blog related to my learning on [hashnode](https://hashnode.com/@harsx1122)
+- 📝 Blogs:- [hashnode](https://hashnode.com/@harsx1122)
 
 - 📫 How to reach me **harshittripathi730@gmail.com**
 
