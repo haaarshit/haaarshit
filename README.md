@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Harshit Tripathi</h1>
 <h3 align="center">Coding</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAM/programmer.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=coderharsx1122&label=Profile%20views&color=0e75b6&style=flat" alt="coderharsx1122" /> </p>
+
 
 
 - 📝 Blogs:- [hashnode](https://hashnode.com/@harsx1122)
